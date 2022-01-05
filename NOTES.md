@@ -23,7 +23,7 @@
 
   - components
     - deps mapping: class X: [ it's deps ]
-    - all class instances have been created
+    - all class instances have been created (for reuse, same instance across app)
 
 - in Nest
   - `Injectable()`
