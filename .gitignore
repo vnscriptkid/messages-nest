@@ -18,6 +18,9 @@ lerna-debug.log*
 /coverage
 /.nyc_output
 
+# Rest Client
+requests
+
 # IDEs and editors
 /.idea
 .project
