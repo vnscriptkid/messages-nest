@@ -20,6 +20,11 @@
   - the task should bubbled up over to DI container/injector
 
 - DI container
+
   - components
     - deps mapping: class X: [ it's deps ]
     - all class instances have been created
+
+- in Nest
+  - `Injectable()`
+  - `providers: []`
